@@ -66,6 +66,12 @@ File -> Import -> Maven -> Existing Maven project
 
 2. Result for Second class Execution[click here](https://github.com/Sudarshan-Gowda/Hibernate-Get-vs-Load-Methods/blob/master/docs/picture2.png)
  
+### For More Details Use the Reference Links
+1. https://javarevisited.blogspot.com/2012/07/hibernate-get-and-load-difference-interview-question.html
+2. https://www.journaldev.com/3472/hibernate-session-get-vs-load-difference-with-examples
+3. https://stackoverflow.com/questions/5370482/whats-the-advantage-of-load-vs-get-in-hibernate
+4. https://java2blog.com/difference-between-get-and-load-in-hibernate/
+ 
 # Contributing
 
 The [issue tracker](https://github.com/Sudarshan-Gowda/Hibernate-Get-vs-Load-Methods/issues) is the preferred channel for bug reports, features requests and submitting pull requests.
