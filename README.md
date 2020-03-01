@@ -31,8 +31,6 @@ Our issue tracker is available here: https://github.com/Sudarshan-Gowda/Hibernat
 ### prerequisites
 The following items should be installed in your system:
 * STS - Spring Tool Suite
-* Server - Apache Tomcat
-* Postman
 
 ### Steps:
 
