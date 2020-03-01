@@ -13,9 +13,11 @@ Whenever the data is not there in the database & if we call get() & load() metho
 As a part of performance load method is prefered to use since it will load the proxy object and it will reduce the database hit count since it will hit to database only whenever we load the data other than getId() & if it is not in database.
 But get method will always load the actual or real object from the cache or database hence number of database hit count will be more. & performance will be slight slower than load method.
 
-When To Use Get and Load:
+#### When To Use Get and Load:
+```
 Whenever we dont know wheather the object is present or not then its good option to go with get method since it will return null if no object found in the cache or database
 but in case of load we should be known the data, then only we should go for load method.
+```
 
 ## Running Application locally
 
